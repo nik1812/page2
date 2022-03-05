@@ -1,0 +1,53 @@
+
+.rounded {
+    border-top: 8px solid rgb(245, 221, 10);
+    border-radius: 5px;
+    Width: 66px;
+  }
+  .service{
+      text-align: center;
+  }
+  .col-md-2 {
+      float: left;
+  }
+  .round {
+    border-top: 8px solid rgb(245, 221, 10);
+    border-radius: 5px;
+    Width: 86px;
+  }
+  /* img{
+      float: left;
+  } */
+  .col-sm-3{
+      float: left;
+  }
+  .bg1{
+      background-color: blue;
+  }
+  .rounded1{
+    border-top: 8px solid #bbb;
+    border-radius: 5px;
+    Width: 66px;
+  }
+  
+
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+ }
